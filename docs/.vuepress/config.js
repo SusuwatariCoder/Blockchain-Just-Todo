@@ -16,7 +16,7 @@ module.exports = {
           ],
         // 侧边栏
         sidebar: [
-<<<<<<< HEAD
+ 
           {
             title: '学习比特币',   // 必要的
             path: '/bitcoin/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
@@ -32,10 +32,7 @@ module.exports = {
               children:  []
               },
           ],
-=======
-            ['/', '学习实践 区块链'],
-        ],
->>>>>>> 2db7679b9ed9b164dab0b0fc3010e696ac6862d7
+ 
         // 更新时间
         lastUpdated: '最近更新', 
     
