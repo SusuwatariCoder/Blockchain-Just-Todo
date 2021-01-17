@@ -12,3 +12,6 @@ npm-debug.log*
 .cache-loader
 .idea
 .nyc_output
+
+erc20/node_modules/
+erc20/build/

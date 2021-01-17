@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "test": "npx truffle test"
+    },
+    "devDependencies": {
+        "@openzeppelin/contracts": "^3.3.0",
+        "@truffle/hdwallet-provider": "^1.2.1"
+    }
+}
